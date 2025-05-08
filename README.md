@@ -10,15 +10,6 @@ This project involves analyzing car model sales data to derive actionable insigh
 ## Objective
 The primary objective is to clean and analyze the dataset to uncover trends, patterns, and insights that can aid decision-making. This includes creating visualizations and an interactive dashboard to present the findings effectively.
 
-## Dataset Description
-The dataset was sourced from car model sales records. It includes various attributes such as:
-
-- Dealer ID
-- Model
-- Date
-- Quantity Sold
-- Profit
-
 ## Interactive Dashboard
 The dashboard integrates various visualizations to provide a comprehensive view of the data. Interactive elements allow users to filter and drill down into specific aspects of the data.
 
@@ -27,8 +18,8 @@ The dashboard integrates various visualizations to provide a comprehensive view 
 ## Project Files
 The repository contains the following files:
 
-- `Car Sales Model Units.xlsx`: Excel file containing the original data, cleaned data, various analyses, and the interactive dashboard.
-- `Car Sales Model Units.png`: Image of the final dashboard.
+- `Car_data.xlsx`: Excel file containing the original data, cleaned data, various analyses, and the interactive dashboard.
+- `Dashboard Image.png`: Image of the final dashboard.
 
 ## Data Cleaning Process
 - Removed duplicates to ensure data integrity.
@@ -69,7 +60,7 @@ The analysis provided valuable insights into car model sales performance and dea
 - Regularly update the dashboard with new data to monitor trends over time.
 
 ## How to Use
-- Open the `Car Sales Model Units.xlsx` file in Excel.
+- Open the `Car_data.xlsx` file in Excel.
 - Explore the various sheets to understand the data and analysis.
 - Use the interactive dashboard to filter and view specific data insights.
 
